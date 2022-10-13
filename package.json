@@ -17,7 +17,7 @@
     "JavaScript"
   ],
   "author": "Caio Barbosa Galvão",
-  "license": "BSD 2-Clause License",
+  "license": "ISC",
   "bugs": {
     "url": "https://github.com/CaioBGalvao/trybe-project-todo-list/issues"
   },
